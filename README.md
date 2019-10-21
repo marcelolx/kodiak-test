@@ -15,3 +15,6 @@ Merges with squash method, set first commit title to merge commit title and firs
 ## Fourth test PR
 
 Github default rule on squash with more than one commit is to use o PR title on merge commit title and all commits titles (and body) in the merge commit body.
+
+## Fifth test PR
+What is github default for only one commit on squash and merge method? Use commit title or PR title?
