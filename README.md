@@ -11,3 +11,7 @@ Merges with squash method, set commit title to merge commit title and commit bod
 ## Third test PR
 
 Merges with squash method, set first commit title to merge commit title and first commit body to merge commit body [Different PR title and body].
+
+## Fourth test PR
+
+Github default rule on squash with more than one commit is to use o PR title on merge commit title and all commits titles (and body) in the merge commit body
