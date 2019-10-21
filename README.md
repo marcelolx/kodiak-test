@@ -10,4 +10,4 @@ Merges with squash method, set commit title to merge commit title and commit bod
 
 ## Third test PR
 
-Merges with squash method, set first commit title to merge commit title and first commit body to merge commit body [Different PR title and body]
+Merges with squash method, set first commit title to merge commit title and first commit body to merge commit body [Different PR title and body].
