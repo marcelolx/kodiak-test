@@ -21,4 +21,4 @@ What is github default for only one commit on squash and merge method? Use commi
 
 ## Last PR test 
 
-Kodiak should use PR title and description instead of merge title and description.
+Kodiak should use PR title and description instead of merge title and description..
