@@ -18,3 +18,7 @@ Github default rule on squash with more than one commit is to use o PR title on 
 
 ## Fifth test PR
 What is github default for only one commit on squash and merge method? Use commit title or PR title?
+
+## Last PR test 
+
+Kodiak should use PR title and description instead of merge title and description.
